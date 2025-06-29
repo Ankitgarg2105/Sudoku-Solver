@@ -42,9 +42,8 @@ The DLX algorithm is used to solve Exact Cover problems efficiently. In this pro
 
    * Prints the completed Sudoku solution if solvable.
    * Otherwise, displays `"No Solution Exists"`.
-
-## 📂 Sample Input
 ```markdown
+## 📂 Sample Input
 0 0 0 2 6 0 7 0 1
 6 8 0 0 7 0 0 9 0
 1 9 0 0 0 4 5 0 0
@@ -79,6 +78,4 @@ README.md              // Project documentation
 ## 🙋‍♂️ Author
 
 **Ankit Garg**
-\[IIIT Allahabad]
 Passionate about algorithms, data structures, and problem-solving.
-is it correct
